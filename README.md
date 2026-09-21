@@ -1,4 +1,4 @@
-# Joanna Piotrowska-Karpov — personal website
+# Joanna Piotrowska — personal website
 
 Minimal static academic website for GitHub Pages.
 
